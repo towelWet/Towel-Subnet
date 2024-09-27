@@ -1,0 +1,63 @@
+Address details window:
+IP Address 192.168.5.63
+V Lookup Hostname
+Hostname
+V Lookup IP Address
+
+Response Time
+Hex
+Binary
+Address
+Class Info
+Address
+Owner/Info
+
+- - - - -
+Classful Subnet Calculator window:
+IP Address
+Subnet Mask
+
+Subnets
+Mask Bits
+Number of Subnets
+Host Bits
+Hosts per Subnet
+Subnet Bit Mask
+Subnet
+Mask
+Inverse Mask
+Subnet Size
+host Range
+Copy
+Details
+Copy
+Subnets
+- - - - -
+
+CIDR Calculator windows:
+Address Block
+CIDR Mask or _ bits
+Subnet Mask
+Generate
+Subnets
+Mask Bits
+Host Bits
+Subnet Bit Mask
+Subnet
+Number of Subnets
+Hosts per Subnet
+Copy
+Details
+Copy
+Subnets
+Inverse nask
+Suhnet Size Host Range
+- - - - -
+Subnet address:
+IP Address
+Subnet Mask
+Generate Addresses
+IP
+Mask
+Notes
+- - - - - 
